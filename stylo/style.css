@@ -1,0 +1,143 @@
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+.custom-file-input ~ .custom-file-label::after {
+    content: "Elegir";
+}
+
+.inputgral {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: blue
+}
+
+input:focus {
+    border-color: green
+}
+
+.indexbody{
+    background: url(../img/bcindex.png) no-repeat fixed center center #eef8f1;
+    background-size: cover;
+}
+
+.feedbody{
+    background: url(../img/bcupin.png) no-repeat fixed center center #eef8f1;
+    background-size: cover;
+}
+
+.profilebody{
+    background: url(../img/bcuser.png) no-repeat fixed center center #eef8f1;
+    background-size: cover;
+}
+
+.indexbar{
+    background-color: rgba(0, 0, 0, 0);
+    background-size: cover;
+    padding: 5px;
+}
+
+.buttonprofile{
+    background-color: rgba(0, 0, 0, 0.46);
+}
+
+.buttonprofile:focus{
+    background-color: #17a2b8;
+}
+
+
+.anone{
+    text-decoration:none;
+}
+
+.cardlog{
+    width: 80%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 20px; 
+    background-color: #001502; 
+    margin-top: 50px;
+}
+
+.cardabout{
+    width: 50%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 20px; 
+    background-color: #278d3134; 
+    margin-top: 50px;
+    text-align: center;
+}
+
+.cardupin{
+    width: 80%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 20px; 
+    background: url(../img/bcindex.png) no-repeat fixed center center #eef8f1;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.cardprofile{
+    width: 80%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 20px; 
+    background-color: rgba(0, 0, 0, 0.46);
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.cardplant{
+    padding: 10px;
+}
+
+.btn-imgcardplant, .btn-imgcardplant:focus{
+    background: transparent;
+    border: none !important;
+    outline:0;
+}
+
+.imgcardplant{
+    width: 90%;
+    height: 256px;
+    /* margin: auto; */
+    border-radius:10px;
+    border:2px solid #28a745;
+    object-fit: none;
+}
+
+.imgperf {
+    width:50px;
+    height:50px;
+    border-radius:160px;
+    border:5px solid #666;
+}
+
+.imgabout{
+    width: 200px;
+    margin: auto;
+    /* background: url(../img/original.jpg) no-repeat fixed center center #eef8f1; */
+    border-radius:10px;
+}
+
+.masterfeedcard{
+    width: 80%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 50px;
+    padding-left: 20px; 
+    padding-right: 20px; 
+    padding-bottom: 20px; 
+}
+
+.entrycard{
+    width: 80%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 50px;
+    padding-left: 20px; 
+    padding-right: 20px; 
+    padding-bottom: 20px; 
+}

@@ -1,0 +1,23 @@
+Nombre: Helecho de Boston, helecho común, helecho doméstico, helecho espada
+Especie: Nephrolepis exaltata
+Género: Nephrolepis
+Familia: Lomariopsidaceae
+Hábitat: bosque y pantano tropicales
+
+Nombre: Dicksonia, helecho arbóreo
+Especie: Balantium antarcticum
+Género: Balantium
+Familia: Dicksoniaceae
+Hábitat: bosque húmedo no tropical
+
+Nombre: Asplenio, helecho nido de ave
+Especie: Asplenium nidus
+Género: Asplenium
+Familia: Aspleniaceae
+Hábitat: clima cálido y húmedo 
+
+Nombre: helecho, helecho de pozo, helecho hembra, helecho hembra menor
+Especie: Athyrium filix-femina
+Género: Athyrium
+Familia: Woodsiaceae
+Hábitat: clima templado, húmedo y sombríos

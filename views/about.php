@@ -11,7 +11,7 @@
     </head>
     <body class="indexbody">
     <div class="card cardabout">
-        <img class="imgabout" src="../img/original.png">
+        <img class="imgabout" src="../img/original.jpg">
         <!-- <img class="imgabout" src="../img/original.jpg"> -->
         <h2>Mateo</h2>
         <h4>Estudiante de ingeniería de la universidad de Nariño. Desarrollador de la plataforma Bio-Tech.</h4>
